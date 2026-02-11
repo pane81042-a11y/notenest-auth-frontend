@@ -1,2 +1,16 @@
-# notenest-auth-frontend
-Authentication microfrontend for NoteNest built with React and Amazon Cognito. Manages user registration, login, JWT token handling, and session validation. Secures communication with serverless APIs and is deployed to AWS S3 with CloudFront CDN delivery.
+# NoteNest Auth Frontend
+
+Authentication microfrontend for NoteNest using Amazon Cognito.
+
+## Features
+
+- Sign up
+- Sign in
+- JWT handling
+- Session validation
+- Logout
+
+## Deployment
+
+- S3
+- CloudFront
